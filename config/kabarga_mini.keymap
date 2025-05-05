@@ -70,7 +70,7 @@
 &mt LEFT_ALT S      &mt LCTRL T       &bt BT_CLR_ALL  &none           &mt LCTRL N       &mt LEFT_ALT E
 &mt LEFT_COMMAND I  &mt LEFT_SHIFT O  &kp P           &kp M           &kp C             &kp D
 &bt BT_SEL 0        &none             &kp H           &kp L           &kp W             &kp B
-&kp BACKSPACE       &sl 1             &none           &none           &lt 4 ENTER       &mt LEFT_SHIFT SPACE
+&kp BACKSPACE       &sl 1             &none           &none           &mt LSHIFT SPACE  &lt 4 ENTER
             >;
         };
 
